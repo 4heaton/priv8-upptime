@@ -17,7 +17,7 @@ sites:
 status-website:
   theme: dark
   metaTags:
-      - name: "robots"
+    - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
