@@ -4,14 +4,18 @@ repo: priv8-upptime # The name of this repository
 
 assignees:
  - 4heaton
+ - rmbolger
 
 sites:
   - name: SoVoCal
     url: https://sovocal.org
+    __dangerous__body_down: "KWQ8bcr"
   - name: Posh ACME
     url: https://poshac.me
+    __dangerous__body_down: "KWQ8bcr"
   - name: 4Heaton
     url: https://4heaton.com
+    __dangerous__body_down: "KWQ8bcr"
 
 
 status-website:
