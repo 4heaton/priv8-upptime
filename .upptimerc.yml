@@ -6,12 +6,12 @@ assignees:
  - 4heaton
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: SoVoCal
+    url: https://sovocal.org
+  - name: Posh ACME
+    url: https://poshac.me
+  - name: 4Heaton
+    url: https://4heaton.com
 
 
 status-website:
