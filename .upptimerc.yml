@@ -16,7 +16,10 @@ sites:
   - name: 4Heaton
     url: https://4heaton.com
     __dangerous__body_down: "KWQ8bcr"
-
+  - name: External DNS
+    check: "tcp-ping"
+    url: 47.181.77.90
+    port: 53
 
 status-website:
   theme: dark
