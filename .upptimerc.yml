@@ -21,7 +21,8 @@ sites:
     url: 47.181.77.90
     port: 53
   - name: Marion Net
-    url: https://border.mrn.dvolve.net:49443/
+    url: https://border.mrn.dvolve.net/
+    port: 49443
 
 status-website:
   theme: dark
