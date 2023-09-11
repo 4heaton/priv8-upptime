@@ -10,11 +10,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 849,
-    "timeDay": 879,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "time": 856,
+    "timeDay": 887,
+    "timeWeek": 856,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 297,
-    "timeDay": 350,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "time": 301,
+    "timeDay": 342,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 1408,
-    "timeDay": 1570,
-    "timeWeek": 1408,
-    "timeMonth": 1408,
-    "timeYear": 1408,
+    "time": 1428,
+    "timeDay": 1568,
+    "timeWeek": 1428,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -70,31 +70,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 52,
-    "timeDay": 67,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "time": 55,
+    "timeDay": 66,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   },
   {
     "name": "Marion Net",
-    "url": "https://border.mrn.dvolve.net:49443/",
+    "url": "https://border.mrn.dvolve.net/",
     "icon": "https://icons.duckduckgo.com/ip3/border.mrn.dvolve.net.ico",
     "slug": "marion-net",
     "status": "down",
-    "uptime": "5.76%",
-    "uptimeDay": "5.76%",
-    "uptimeWeek": "5.76%",
-    "uptimeMonth": "5.76%",
-    "uptimeYear": "5.76%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-11": 0
+      "2023-09-11": 6
     }
   }
 ]
