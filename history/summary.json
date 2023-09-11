@@ -10,11 +10,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 809,
-    "timeDay": 775,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
+    "time": 797,
+    "timeDay": 757,
+    "timeWeek": 797,
+    "timeMonth": 797,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 284,
-    "timeDay": 291,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 267,
+    "timeDay": 252,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 1420,
-    "timeDay": 1515,
-    "timeWeek": 1420,
-    "timeMonth": 1420,
-    "timeYear": 1420,
+    "time": 1412,
+    "timeDay": 1480,
+    "timeWeek": 1412,
+    "timeMonth": 1412,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -70,31 +70,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 53,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "time": 42,
+    "timeDay": 44,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {}
   },
   {
     "name": "Marion Net",
-    "url": "https://border.mrn.dvolve.net:49443",
-    "icon": "https://icons.duckduckgo.com/ip3/border.mrn.dvolve.net.ico",
+    "url": "border.mrn.dvolve.net",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
+    "time": 95,
+    "timeDay": 95,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-09-11": 15
+      "2023-09-11": 25
     }
   }
 ]
