@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 822,
-    "timeDay": 861,
-    "timeWeek": 888,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "time": 812,
+    "timeDay": 582,
+    "timeWeek": 874,
+    "timeMonth": 812,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 317,
-    "timeDay": 316,
-    "timeWeek": 396,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "time": 309,
+    "timeDay": 124,
+    "timeWeek": 372,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1475,
-    "timeDay": 1618,
-    "timeWeek": 1570,
-    "timeMonth": 1475,
-    "timeYear": 1475,
+    "time": 1468,
+    "timeDay": 1303,
+    "timeWeek": 1544,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 77,
-    "timeWeek": 65,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 49,
+    "timeDay": 12,
+    "timeWeek": 59,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 234,
-    "timeDay": 621,
-    "timeWeek": 269,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 228,
+    "timeDay": 145,
+    "timeWeek": 274,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2023-09-11": 25
     }
