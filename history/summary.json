@@ -83,17 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.80%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 220,
     "timeDay": 107,
     "timeWeek": 270,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-09-26": 17,
       "2023-09-11": 25
     }
   }
