@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 781,
-    "timeDay": 955,
-    "timeWeek": 658,
-    "timeMonth": 781,
-    "timeYear": 781,
+    "time": 782,
+    "timeDay": 821,
+    "timeWeek": 652,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 294,
-    "timeDay": 338,
-    "timeWeek": 217,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 295,
+    "timeDay": 340,
+    "timeWeek": 220,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1460,
-    "timeDay": 1553,
-    "timeWeek": 1434,
-    "timeMonth": 1460,
-    "timeYear": 1460,
+    "time": 1465,
+    "timeDay": 1602,
+    "timeWeek": 1432,
+    "timeMonth": 1465,
+    "timeYear": 1465,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 46,
+    "time": 47,
     "timeDay": 66,
-    "timeWeek": 37,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "timeWeek": 35,
+    "timeMonth": 47,
+    "timeYear": 47,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 244,
-    "timeDay": 1007,
-    "timeWeek": 319,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 240,
+    "timeDay": 146,
+    "timeWeek": 251,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2023-09-26": 17,
       "2023-09-11": 25
