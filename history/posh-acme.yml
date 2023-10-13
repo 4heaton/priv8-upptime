@@ -1,7 +1,7 @@
 url: https://poshac.me
-status: up
-code: 200
-responseTime: 289
-lastUpdated: 2023-10-12T23:12:00.366Z
+status: down
+code: 503
+responseTime: 3202
+lastUpdated: 2023-10-13T18:37:07.758Z
 startTime: 2023-09-08T04:32:00.310Z
 generator: Upptime <https://github.com/upptime/upptime>
