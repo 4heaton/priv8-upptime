@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 735,
-    "timeDay": 454,
-    "timeWeek": 679,
-    "timeMonth": 687,
-    "timeYear": 735,
+    "time": 730,
+    "timeDay": 396,
+    "timeWeek": 648,
+    "timeMonth": 681,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 326,
-    "timeDay": 125,
-    "timeWeek": 239,
-    "timeMonth": 351,
-    "timeYear": 326,
+    "time": 325,
+    "timeDay": 245,
+    "timeWeek": 225,
+    "timeMonth": 350,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1411,
-    "timeDay": 1351,
-    "timeWeek": 1418,
-    "timeMonth": 1346,
-    "timeYear": 1411,
+    "time": 1408,
+    "timeDay": 1259,
+    "timeWeek": 1401,
+    "timeMonth": 1343,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 46,
-    "timeDay": 11,
-    "timeWeek": 29,
+    "time": 45,
+    "timeDay": 12,
+    "timeWeek": 27,
     "timeMonth": 43,
-    "timeYear": 46,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 205,
-    "timeDay": 83,
-    "timeWeek": 135,
-    "timeMonth": 182,
-    "timeYear": 205,
+    "uptimeYear": "99.95%",
+    "time": 204,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 184,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2023-09-26": 17,
       "2023-09-11": 25
