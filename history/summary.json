@@ -4,11 +4,11 @@
     "url": "https://sovocal.org",
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 721,
     "timeDay": 768,
@@ -16,6 +16,7 @@
     "timeMonth": 668,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2023-11-17": 3,
       "2023-09-08": 26
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://poshac.me",
     "icon": "https://icons.duckduckgo.com/ip3/poshac.me.ico",
     "slug": "posh-acme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 326,
@@ -36,6 +37,7 @@
     "timeMonth": 286,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2023-11-17": 1,
       "2023-09-08": 26
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://4heaton.com",
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1413,
@@ -56,6 +58,7 @@
     "timeMonth": 1408,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2023-11-17": 1,
       "2023-09-08": 26
     }
   },
