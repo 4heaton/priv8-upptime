@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 731,
-    "timeDay": 1182,
-    "timeWeek": 910,
-    "timeMonth": 754,
-    "timeYear": 731,
+    "time": 732,
+    "timeDay": 824,
+    "timeWeek": 903,
+    "timeMonth": 759,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 326,
-    "timeDay": 435,
-    "timeWeek": 397,
-    "timeMonth": 323,
+    "timeDay": 348,
+    "timeWeek": 381,
+    "timeMonth": 327,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2023-09-08": 26
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1427,
-    "timeDay": 1690,
-    "timeWeek": 1589,
-    "timeMonth": 1460,
-    "timeYear": 1427,
+    "time": 1428,
+    "timeDay": 1583,
+    "timeWeek": 1585,
+    "timeMonth": 1469,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "external-dns",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "98.97%",
+    "uptime": "97.96%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "71.63%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "97.96%",
     "time": 44,
     "timeDay": 0,
-    "timeWeek": 62,
-    "timeMonth": 44,
+    "timeWeek": 60,
+    "timeMonth": 45,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2023-12-15": 64,
+      "2023-12-16": 62,
+      "2023-12-15": 1440,
       "2023-12-14": 1358
     }
   },
@@ -91,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 197,
-    "timeDay": 519,
-    "timeWeek": 236,
-    "timeMonth": 192,
-    "timeYear": 197,
+    "time": 203,
+    "timeDay": 721,
+    "timeWeek": 314,
+    "timeMonth": 213,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2023-09-26": 17,
       "2023-09-11": 25
