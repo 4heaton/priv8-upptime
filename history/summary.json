@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 733,
-    "timeDay": 501,
-    "timeWeek": 725,
-    "timeMonth": 765,
-    "timeYear": 733,
+    "time": 734,
+    "timeDay": 830,
+    "timeWeek": 730,
+    "timeMonth": 766,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 326,
-    "timeDay": 250,
-    "timeWeek": 340,
-    "timeMonth": 338,
-    "timeYear": 326,
+    "time": 327,
+    "timeDay": 448,
+    "timeWeek": 367,
+    "timeMonth": 334,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1428,
-    "timeDay": 1331,
-    "timeWeek": 1501,
-    "timeMonth": 1471,
-    "timeYear": 1428,
+    "time": 1429,
+    "timeDay": 1599,
+    "timeWeek": 1516,
+    "timeMonth": 1473,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -65,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "external-dns",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.43%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.19%",
     "time": 44,
-    "timeDay": 12,
-    "timeWeek": 40,
+    "timeDay": 64,
+    "timeWeek": 42,
     "timeMonth": 47,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 186,
-    "timeDay": 22,
-    "timeWeek": 47,
-    "timeMonth": 172,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 67,
+    "timeWeek": 48,
+    "timeMonth": 170,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2023-09-26": 17,
       "2023-09-11": 25
