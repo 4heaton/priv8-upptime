@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 735,
-    "timeDay": 832,
-    "timeWeek": 767,
-    "timeMonth": 794,
-    "timeYear": 735,
+    "time": 733,
+    "timeDay": 371,
+    "timeWeek": 712,
+    "timeMonth": 779,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 422,
-    "timeWeek": 377,
-    "timeMonth": 361,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 249,
+    "timeWeek": 356,
+    "timeMonth": 355,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1436,
-    "timeDay": 1630,
-    "timeWeek": 1544,
-    "timeMonth": 1504,
-    "timeYear": 1436,
+    "time": 1434,
+    "timeDay": 1283,
+    "timeWeek": 1513,
+    "timeMonth": 1495,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2023-09-08": 26
     }
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "external-dns",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.43%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.31%",
     "time": 45,
-    "timeDay": 68,
-    "timeWeek": 54,
-    "timeMonth": 52,
+    "timeDay": 11,
+    "timeWeek": 48,
+    "timeMonth": 50,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2023-12-16": 82,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 177,
-    "timeDay": 65,
-    "timeWeek": 58,
-    "timeMonth": 125,
-    "timeYear": 177,
+    "time": 176,
+    "timeDay": 19,
+    "timeWeek": 52,
+    "timeMonth": 120,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2023-09-26": 17,
       "2023-09-11": 25
