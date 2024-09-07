@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "34.53%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.53%",
-    "time": 474,
-    "timeDay": 269,
-    "timeWeek": 334,
-    "timeMonth": 358,
-    "timeYear": 474,
+    "uptimeYear": "34.43%",
+    "time": 475,
+    "timeDay": 665,
+    "timeWeek": 355,
+    "timeMonth": 366,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-09-06": 74,
+      "2024-09-07": 72,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -255,8 +256,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 228,
-      "2023-09-08": 26
+      "2024-01-11": 228
     }
   },
   {
@@ -271,15 +271,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 331,
-    "timeDay": 288,
-    "timeWeek": 375,
-    "timeMonth": 352,
+    "timeDay": 473,
+    "timeWeek": 378,
+    "timeMonth": 356,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2024-07-01": 359,
       "2024-06-30": 263,
-      "2024-02-11": 215,
-      "2023-09-08": 26
+      "2024-02-11": 215
     }
   },
   {
@@ -288,18 +287,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "down",
-    "uptime": "34.53%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.53%",
-    "time": 686,
-    "timeDay": 245,
-    "timeWeek": 294,
-    "timeMonth": 280,
-    "timeYear": 686,
+    "uptimeYear": "34.43%",
+    "time": 685,
+    "timeDay": 334,
+    "timeWeek": 302,
+    "timeMonth": 282,
+    "timeYear": 685,
     "dailyMinutesDown": {
-      "2024-09-06": 74,
+      "2024-09-07": 72,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -538,8 +538,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 228,
-      "2023-09-08": 26
+      "2024-01-11": 228
     }
   },
   {
@@ -554,7 +553,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 47,
-    "timeDay": 53,
+    "timeDay": 70,
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 47,
@@ -579,7 +578,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 96,
-    "timeDay": 56,
+    "timeDay": 64,
     "timeWeek": 54,
     "timeMonth": 55,
     "timeYear": 96,
