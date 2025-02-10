@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "24.17%",
+    "uptime": "24.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 410,
-    "timeDay": 333,
-    "timeWeek": 355,
+    "time": 409,
+    "timeDay": 218,
+    "timeWeek": 327,
     "timeMonth": 327,
-    "timeYear": 331,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-02-09": 82,
+      "2025-02-10": 79,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -379,8 +380,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -394,16 +394,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 344,
-    "timeDay": 327,
-    "timeWeek": 390,
-    "timeMonth": 357,
+    "time": 343,
+    "timeDay": 226,
+    "timeWeek": 371,
+    "timeMonth": 355,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2024-09-23": 21,
       "2024-07-01": 359,
-      "2024-06-30": 263,
-      "2024-02-11": 215
+      "2024-06-30": 263
     }
   },
   {
@@ -412,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "down",
-    "uptime": "24.17%",
+    "uptime": "24.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 510,
-    "timeDay": 317,
-    "timeWeek": 285,
-    "timeMonth": 266,
-    "timeYear": 270,
+    "time": 507,
+    "timeDay": 125,
+    "timeWeek": 268,
+    "timeMonth": 267,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-02-09": 82,
+      "2025-02-10": 79,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -786,8 +786,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -801,16 +800,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 47,
-    "timeDay": 50,
-    "timeWeek": 54,
+    "time": 46,
+    "timeDay": 11,
+    "timeWeek": 46,
     "timeMonth": 46,
-    "timeYear": 48,
+    "timeYear": 47,
     "dailyMinutesDown": {
       "2024-09-23": 19,
       "2024-07-01": 409,
-      "2024-06-30": 261,
-      "2024-02-11": 213
+      "2024-06-30": 261
     }
   },
   {
@@ -825,9 +823,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 76,
-    "timeDay": 61,
-    "timeWeek": 60,
-    "timeMonth": 59,
+    "timeDay": 19,
+    "timeWeek": 52,
+    "timeMonth": 58,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2025-01-22": 16,
