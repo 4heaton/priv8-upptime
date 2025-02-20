@@ -5,8 +5,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "24.55%",
-    "uptimeDay": "99.99%",
+    "uptime": "24.54%",
+    "uptimeDay": "91.91%",
     "uptimeWeek": "66.60%",
     "uptimeMonth": "13.42%",
     "uptimeYear": "1.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 412,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-02-19": 0,
+      "2025-02-20": 79,
+      "2025-02-19": 38,
       "2025-02-15": 449,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -376,8 +377,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
@@ -408,11 +408,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "24.55%",
+    "uptime": "24.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.50%",
-    "uptimeMonth": "13.40%",
-    "uptimeYear": "1.00%",
+    "uptimeWeek": "67.66%",
+    "uptimeMonth": "13.66%",
+    "uptimeYear": "1.02%",
     "time": 496,
     "timeDay": 1424,
     "timeWeek": 1094,
@@ -778,8 +778,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
