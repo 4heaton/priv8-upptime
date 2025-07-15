@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "19.31%",
+    "uptime": "19.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 348,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-07-14": 110,
+      "2025-07-15": 110,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -376,8 +377,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -392,9 +392,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 391,
-    "timeWeek": 435,
-    "timeMonth": 360,
+    "timeDay": 144,
+    "timeWeek": 392,
+    "timeMonth": 355,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-09-23": 21
@@ -406,16 +406,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "40.66%",
+    "uptime": "40.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.76%",
+    "uptimeYear": "41.03%",
     "time": 597,
-    "timeDay": 1595,
-    "timeWeek": 1583,
-    "timeMonth": 1428,
-    "timeYear": 718,
+    "timeDay": 414,
+    "timeWeek": 1416,
+    "timeMonth": 1391,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-02-15": 459,
       "2025-02-14": 1440,
@@ -631,8 +631,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -647,9 +646,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 68,
-    "timeWeek": 61,
-    "timeMonth": 45,
+    "timeDay": 13,
+    "timeWeek": 55,
+    "timeMonth": 44,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2024-09-23": 19
@@ -662,14 +661,14 @@
     "slug": "marion-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 55,
-    "timeDay": 47,
-    "timeWeek": 59,
-    "timeMonth": 51,
+    "timeDay": 20,
+    "timeWeek": 55,
+    "timeMonth": 50,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2025-07-13": 25,
