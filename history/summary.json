@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "18.02%",
+    "uptime": "18.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.28%",
-    "time": 340,
+    "time": 339,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 344,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-08-31": 98,
+      "2025-09-01": 107,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -376,8 +377,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -392,10 +392,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 121,
-    "timeWeek": 491,
-    "timeMonth": 516,
-    "timeYear": 377,
+    "timeDay": 425,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2024-09-23": 21
     }
@@ -406,16 +406,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "44.59%",
+    "uptime": "44.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "53.90%",
+    "uptimeYear": "54.17%",
     "time": 711,
-    "timeDay": 1309,
-    "timeWeek": 1493,
-    "timeMonth": 1385,
-    "timeYear": 864,
+    "timeDay": 636,
+    "timeWeek": 1393,
+    "timeMonth": 1359,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2025-08-11": 28,
       "2025-02-15": 459,
@@ -584,8 +584,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -599,10 +598,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 46,
-    "timeDay": 12,
-    "timeWeek": 37,
-    "timeMonth": 43,
+    "time": 45,
+    "timeDay": 68,
+    "timeWeek": 45,
+    "timeMonth": 45,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2024-09-23": 19
@@ -620,9 +619,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
     "time": 55,
-    "timeDay": 24,
-    "timeWeek": 46,
-    "timeMonth": 49,
+    "timeDay": 71,
+    "timeWeek": 53,
+    "timeMonth": 50,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2025-08-08": 37,
