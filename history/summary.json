@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "16.58%",
+    "uptime": "16.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-11-02": 102,
+      "2025-11-03": 101,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -376,8 +377,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -392,10 +392,10 @@
     "uptimeMonth": "96.41%",
     "uptimeYear": "99.70%",
     "time": 474,
-    "timeDay": 359,
-    "timeWeek": 674,
-    "timeMonth": 1565,
-    "timeYear": 507,
+    "timeDay": 147,
+    "timeWeek": 634,
+    "timeMonth": 1556,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-10-29": 45,
       "2025-10-25": 721,
@@ -410,15 +410,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "48.90%",
+    "uptime": "48.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "96.42%",
-    "uptimeYear": "70.86%",
+    "uptimeYear": "71.13%",
     "time": 811,
-    "timeDay": 581,
-    "timeWeek": 470,
-    "timeMonth": 630,
+    "timeDay": 278,
+    "timeWeek": 440,
+    "timeMonth": 619,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-10-29": 44,
@@ -530,8 +530,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -546,9 +545,9 @@
     "uptimeMonth": "97.91%",
     "uptimeYear": "99.83%",
     "time": 45,
-    "timeDay": 63,
-    "timeWeek": 43,
-    "timeMonth": 47,
+    "timeDay": 13,
+    "timeWeek": 38,
+    "timeMonth": 46,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2025-10-29": 43,
@@ -571,9 +570,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 55,
-    "timeDay": 71,
-    "timeWeek": 63,
-    "timeMonth": 57,
+    "timeDay": 22,
+    "timeWeek": 56,
+    "timeMonth": 56,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2025-08-08": 37,
