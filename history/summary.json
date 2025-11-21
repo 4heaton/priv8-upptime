@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "16.21%",
+    "uptime": "16.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 347,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-11-20": 97,
+      "2025-11-21": 98,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -376,8 +377,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   },
   {
@@ -392,8 +392,8 @@
     "uptimeMonth": "96.15%",
     "uptimeYear": "99.67%",
     "time": 468,
-    "timeDay": 147,
-    "timeWeek": 287,
+    "timeDay": 256,
+    "timeWeek": 284,
     "timeMonth": 1041,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -411,15 +411,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "50.04%",
+    "uptime": "50.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.49%",
-    "uptimeYear": "75.79%",
+    "uptimeYear": "76.07%",
     "time": 816,
-    "timeDay": 274,
-    "timeWeek": 377,
-    "timeMonth": 439,
+    "timeDay": 217,
+    "timeWeek": 376,
+    "timeMonth": 429,
     "timeYear": 991,
     "dailyMinutesDown": {
       "2025-10-29": 44,
@@ -513,8 +513,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   },
   {
@@ -531,7 +530,7 @@
     "time": 44,
     "timeDay": 12,
     "timeWeek": 28,
-    "timeMonth": 41,
+    "timeMonth": 40,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-10-29": 43,
@@ -554,8 +553,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 54,
-    "timeDay": 23,
-    "timeWeek": 34,
+    "timeDay": 44,
+    "timeWeek": 37,
     "timeMonth": 50,
     "timeYear": 53,
     "dailyMinutesDown": {
