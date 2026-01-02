@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "15.40%",
+    "uptime": "15.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.28%",
-    "time": 346,
+    "time": 345,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-01-01": 116,
+      "2026-01-02": 107,
+      "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -376,8 +377,7 @@
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
-      "2025-01-03": 1440,
-      "2025-01-02": 1440
+      "2025-01-03": 1440
     }
   },
   {
@@ -392,8 +392,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 466,
-    "timeDay": 581,
-    "timeWeek": 342,
+    "timeDay": 273,
+    "timeWeek": 340,
     "timeMonth": 342,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -411,15 +411,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "up",
-    "uptime": "52.52%",
+    "uptime": "52.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.30%",
+    "uptimeYear": "87.57%",
     "time": 827,
-    "timeDay": 559,
-    "timeWeek": 387,
-    "timeMonth": 414,
+    "timeDay": 204,
+    "timeWeek": 375,
+    "timeMonth": 412,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-10-29": 44,
@@ -471,8 +471,7 @@
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
-      "2025-01-03": 1440,
-      "2025-01-02": 1440
+      "2025-01-03": 1440
     }
   },
   {
@@ -487,7 +486,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
     "time": 43,
-    "timeDay": 63,
+    "timeDay": 12,
     "timeWeek": 32,
     "timeMonth": 40,
     "timeYear": 43,
@@ -514,7 +513,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 53,
-    "timeDay": 67,
+    "timeDay": 22,
     "timeWeek": 41,
     "timeMonth": 46,
     "timeYear": 53,
