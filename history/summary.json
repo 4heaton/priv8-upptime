@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "12.42%",
+    "uptime": "12.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 165,
+      "2026-07-23": 1189,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -419,11 +419,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "down",
-    "uptime": "46.19%",
+    "uptime": "46.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.10%",
+    "uptimeYear": "54.90%",
     "time": 772,
     "timeDay": 191,
     "timeWeek": 162,
@@ -436,7 +436,7 @@
       "2025-10-23": 384,
       "2025-10-25": 721,
       "2025-10-29": 44,
-      "2026-07-23": 165,
+      "2026-07-23": 1189,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -637,9 +637,9 @@
     "url": "border.mrn.dvolve.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marion-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -652,7 +652,8 @@
       "2025-07-29": 44,
       "2025-08-07": 42,
       "2025-08-08": 37,
-      "2026-01-23": 90
+      "2026-01-23": 90,
+      "2026-07-23": 0
     }
   }
 ]
