@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sovocal.org.ico",
     "slug": "so-vo-cal",
     "status": "down",
-    "uptime": "11.97%",
+    "uptime": "11.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 233,
+      "2026-09-01": 421,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -423,7 +423,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.13%",
+    "uptimeYear": "44.09%",
     "time": 677,
     "timeDay": 55,
     "timeWeek": 182,
@@ -435,7 +435,7 @@
       "2025-10-23": 384,
       "2025-10-25": 721,
       "2025-10-29": 44,
-      "2026-09-01": 233,
+      "2026-09-01": 421,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -646,9 +646,9 @@
     "url": "47.180.88.44",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "external-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -668,7 +668,8 @@
       "2025-12-13": 21,
       "2026-02-06": 51,
       "2026-03-09": 57,
-      "2026-03-25": 60
+      "2026-03-25": 60,
+      "2026-09-01": 0
     }
   },
   {
