@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 371,
+      "2026-11-19": 127,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -379,8 +380,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   },
   {
@@ -393,12 +393,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.59%",
     "uptimeMonth": "98.21%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.54%",
     "time": 548,
     "timeDay": 533,
     "timeWeek": 2541,
-    "timeMonth": 1140,
-    "timeYear": 465,
+    "timeMonth": 1155,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2026-01-29": 46,
       "2026-03-25": 61,
@@ -417,18 +417,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/4heaton.com.ico",
     "slug": "4-heaton",
     "status": "down",
-    "uptime": "41.52%",
+    "uptime": "41.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.03%",
+    "uptimeYear": "22.80%",
     "time": 488,
     "timeDay": 244,
     "timeWeek": 146,
-    "timeMonth": 188,
-    "timeYear": 286,
+    "timeMonth": 187,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-11-18": 371,
+      "2026-11-19": 127,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -717,16 +718,16 @@
     "url": "47.180.88.44",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "external-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.06%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "89.05%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "99.66%",
     "time": 42,
     "timeDay": 62,
     "timeWeek": 41,
-    "timeMonth": 46,
+    "timeMonth": 45,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2025-11-27": 28,
@@ -740,7 +741,8 @@
       "2026-11-14": 782,
       "2026-11-13": 20,
       "2026-11-15": 87,
-      "2026-11-16": 215
+      "2026-11-16": 215,
+      "2026-11-19": 0
     }
   },
   {
@@ -757,7 +759,7 @@
     "time": 53,
     "timeDay": 72,
     "timeWeek": 42,
-    "timeMonth": 54,
+    "timeMonth": 53,
     "timeYear": 52,
     "dailyMinutesDown": {
       "2026-01-23": 90,
